@@ -79,11 +79,11 @@ On iOS plugin, the creation of a movie from the pictures stored in the <strong>A
 
 For more info on releases:
 
- - [info_releases](https://github.com/capacitor-community/photoviewer/blob/master/info_releases.md)
+ - [info_releases](https://github.com/TheeMachine/capacitor-photoviewer/blob/master/info_releases.md)
 
- - [changelog](https://github.com/capacitor-community/photoviewer/blob/main/CHANGELOG.md)
+ - [changelog](https://github.com/TheeMachine/capacitor-photoviewer/blob/main/CHANGELOG.md)
 
- - [issues](https://github.com/capacitor-community/photoviewer/issues)
+ - [issues](https://github.com/TheeMachine/capacitor-photoviewer/issues)
 
 
 
@@ -210,7 +210,7 @@ npm run serve          // Web
 
 ## Documentation
 
-[API_Documentation](https://github.com/capacitor-community/photoviewer/blob/master/docs/API.md)
+[API_Documentation](https://github.com/TheeMachine/capacitor-photoviewer/blob/master/docs/API.md)
 
 ## Applications demonstrating the use of the plugin
 
@@ -228,9 +228,9 @@ npm run serve          // Web
 
 ## Usage
 
-- [In your Ionic/Vue App](https://github.com/capacitor-community/photoviewer/blob/master/docs/Ionic-Vue-Usage.md)
+- [In your Ionic/Vue App](https://github.com/TheeMachine/capacitor-photoviewer/blob/master/docs/Ionic-Vue-Usage.md)
 
-- [In your Ionic/Angular App](https://github.com/capacitor-community/photoviewer/blob/master/docs/Ionic-Angular-Usage.md)
+- [In your Ionic/Angular App](https://github.com/TheeMachine/capacitor-photoviewer/blob/master/docs/Ionic-Angular-Usage.md)
 
 
 
